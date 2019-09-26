@@ -1,0 +1,36 @@
+{
+  "title": "1_M2Trueque",
+  "date": "24/05/19",
+  "description": {
+    "es": "Hostoria del dinero\r\nTrueque"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "1_m2trueque.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 10,
+  "totalSize": 202557,
+  "files": [
+    "1_m2trueque.jclic",
+    "1_m2trueque.jclic.js",
+    "bicicleta.png",
+    "celular.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "reloj.png",
+    "spinner.png",
+    "tv.png"
+  ]
+}
